@@ -1,6 +1,6 @@
 export default {
-  state: {
-	  typeError: {
+state: {
+typeError: {
 	  	flag: null,
 	  	text: null
 	  },
